@@ -1,7 +1,5 @@
-
-
+import './App.css'
 import React from "react";
-
 
 const App = () => {
   return (
@@ -14,5 +12,3 @@ const App = () => {
 
 
 export default App;
-
-
